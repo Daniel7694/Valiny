@@ -83,7 +83,7 @@
                     <input type="text" class="form-control" id="codigoEstudiante" placeholder="Ingrese el código del estudiante" name="ID_Estudiante">
                 </div>
                 
-                <button type="submit" class="submit-btn">Verificar</button>
+                <button type="submit" class="submit-btn">Finalizar</button>
             </form>
         </div>
     </div>
